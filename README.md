@@ -1,6 +1,6 @@
 # VisualMem: Personal Visual Memory from Explicit and Implicit Evidence
 
-###  [Project Page](https://viettmab.github.io/visualmem-page) | [arXiv](https://arxiv.org/abs/) | [HF Datasets](https://huggingface.co/datasets/viettmab/visualmem)
+###  [Project Page](https://viettmab.github.io/visualmem-page) | [arXiv](https://arxiv.org/abs/2605.28806) | [HF Datasets](https://huggingface.co/datasets/viettmab/visualmem)
 
 ---
 **Personal Visual Memory from Explicit and Implicit Evidence**<br>
@@ -107,8 +107,8 @@ If you find VisualMem useful, please cite:
 ```bibtex
 @article{nguyen2026visualmem,
   title={Personal Visual Memory from Explicit and Implicit Evidence},
-  author={Nguyen, Viet and Nguyen, Thao and Patel, Vishal and Li, Yuheng},
-  journal={arXiv preprint arXiv:2605.},
+  author={Nguyen, Viet and Nguyen, Thao and Patel, Vishal M and Li, Yuheng},
+  journal={arXiv preprint arXiv:2605.28806},
   year={2026}
 }
 ```
