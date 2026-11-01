@@ -2,6 +2,8 @@
 
 ###  [Project Page](https://viettmab.github.io/visualmem-page) | [arXiv](https://arxiv.org/abs/2605.28806) | [HF Datasets](https://huggingface.co/datasets/viettmab/visualmem)
 
+**Accepted at NeurIPS 2026.**
+
 ---
 **Personal Visual Memory from Explicit and Implicit Evidence**<br>
 Viet Nguyen<sup>1</sup>, Thao Nguyen<sup>2</sup>, Vishal M. Patel<sup>1, ¶</sup>, Yuheng Li<sup>3, ¶</sup><br>
@@ -18,7 +20,7 @@ Viet Nguyen<sup>1</sup>, Thao Nguyen<sup>2</sup>, Vishal M. Patel<sup>1, ¶</sup
 Clone the repository and create a Python environment:
 
 ```bash
-git clone https://github.com/viettmab/viusalmem.git
+git clone https://github.com/viettmab/VisualMem.git
 cd VisualMem
 
 conda create -n visualmem python=3.12 -y
@@ -105,10 +107,16 @@ results/visualmem/<LIB>-<VERSION>/
 If you find VisualMem useful, please cite:
 
 ```bibtex
-@article{nguyen2026visualmem,
+@inproceedings{nguyen2026visualmem,
   title={Personal Visual Memory from Explicit and Implicit Evidence},
   author={Nguyen, Viet and Nguyen, Thao and Patel, Vishal M and Li, Yuheng},
-  journal={arXiv preprint arXiv:2605.28806},
+  booktitle={Advances in Neural Information Processing Systems},
   year={2026}
 }
 ```
+
+## License
+
+The source code in this repository is released under the [MIT License](LICENSE).
+
+The VisualMem benchmark dataset is released under the [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/). The dataset license applies only to materials for which the authors hold the necessary rights; any third-party materials remain subject to their original terms.
